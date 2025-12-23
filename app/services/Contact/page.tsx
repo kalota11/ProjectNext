@@ -1,6 +1,6 @@
 export default function Home() {
   return (
     <div>
-      <h1>This is Web Development Folder</h1>
+      <h1>This is an Contact page</h1>
     </div>
   )}
